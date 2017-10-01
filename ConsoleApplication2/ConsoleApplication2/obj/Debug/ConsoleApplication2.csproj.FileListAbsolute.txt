@@ -1,0 +1,10 @@
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\ValueTupleBridge.dll
+C:\Users\vlado\Desktop\1 курс\юля\ConsoleApplication2\ConsoleApplication2\bin\Debug\ValueTupleBridge.pdb
